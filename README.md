@@ -9,6 +9,8 @@ The content of the three Raspberry folders should be entirely put on the corresp
 
 The CentralSubscriber script can be run on any device able to run Python scripts and connected to the same Wi-Fi network as the three boards.
 
+In the Matlab folder the data elaboration scripts are available together with CSV files of the data that was collected and analyzed
+
 ### Apple Shortcut Routine
 The Voice Assistant activated rotuine can be tested on IOS devices by following these steps:
 1. Download the a-Shell App from AppStore: https://apps.apple.com/us/app/a-shell/id1473805438
