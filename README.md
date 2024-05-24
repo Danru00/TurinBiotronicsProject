@@ -22,5 +22,5 @@ Optional:
 
 ## CAD
 The CAD was developed using Solidworks 2023 and all the files are available for browsing and for additive manufacturing purposes.
-
+The EMG_case folder contains the EMG system assembly with all the parts needed. The same holds for the IMU system assembly contained in the corresponding folder IMU_case.
 ##
