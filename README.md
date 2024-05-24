@@ -11,13 +11,13 @@ The CentralSubscriber script can be run on any device able to run Python scripts
 
 ### Apple Shortcut Routine
 The Voice Assistant activated rotuine can be tested on IOS devices by following these steps:
-1: Download the a-Shell App from AppStore: https://apps.apple.com/us/app/a-shell/id1473805438
-2: Download the shortcut file "Osteoporosis Routine" on the mobile device and open it in the Shortcuts App
-3: Download the CentralSubscriber.py script and place it in the a-Shell folder using the Files app
-4: The routine can be called through Siri by clicking on the play button in the Shortcut App or by saying outloud the phrase: "Hey Siri, Osteoporosis Routine"
+1. Download the a-Shell App from AppStore: https://apps.apple.com/us/app/a-shell/id1473805438
+2. Download the shortcut file "Osteoporosis Routine" on the mobile device and open it in the Shortcuts App
+3. Download the CentralSubscriber.py script and place it in the a-Shell folder using the Files app
+4. The routine can be called through Siri by clicking on the play button in the Shortcut App or by saying outloud the phrase: "Hey Siri, Osteoporosis Routine"
 Optional:
-5: Choose a custom name for the Shortcut automation, thus allowing to use a custom activation phrase
-6: Choose a custom sound to play the routine notification sounds by modifying the Shortcut action "Play Sound" 
+5. Choose a custom name for the Shortcut automation, thus allowing to use a custom activation phrase
+6. Choose a custom sound to play the routine notification sounds by modifying the Shortcut action "Play Sound" 
 
 
 ## CAD
