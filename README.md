@@ -1,6 +1,6 @@
 # TurinBiotronicsProject
 
-This repository was created to share the project scripts, CAD Design Files, experimentally acquired data, and reproduction guidelines for the project developed by the Turin Biotronics team for the Bionics For Tomorrow contest, a team competition born from a Camplus College and MIT Univerisity collaboration.
+This repository was created to share the project scripts, CAD Design Files and experimentally acquired data for the project developed by the Turin Biotronics team for the Bionics For Tomorrow contest, a team competition born from a Camplus College and MIT Univerisity collaboration.
 
 Additional information is found in the report also available in this repository material.
 
